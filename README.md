@@ -1,3 +1,12 @@
+# 🚀 PyCRC-Gen
+
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)
+
+> 🧮 A simple Python tool to generate CRC checksums using custom polynomials.
+
+
 # 주제 - Checksum
 ## 🔧 CRC 생성기 (Cyclic Redundancy Check Generator)
 
